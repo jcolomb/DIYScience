@@ -25,7 +25,15 @@ In this project we are researching the different funding strategies available to
 
 **Who can help?** Anyone - DIY scientists with personal experience or anyone willing to do a little bit of internet research.  
 **How long will this take?** 15+ mins  
-**How to contribute**: Take a look at our ‘[How to get funding](https://github.com/DIYScience/DIYScience/projects/4)’ project. Each issue represents a different source/mode of funding - pick one you know, choose one to research, or add one that’s missing (you can follow our [template](https://github.com/DIYScience/DIYScience/issues/1)). Comment the issue with your own experience or information you can gather by researching DIY Science initiatives. For inspiration we are collecting a [list of DIY Science initiatives and funding sources](https://github.com/DIYScience/DIYScience/issues/1#issuecomment-302934191) - please also feel free to add to this list.  
+**How to contribute**: 
+
+1. **Give your expertise on funding opportunity already listed**:
+Take a look at our ‘[How to get funding](https://github.com/DIYScience/DIYScience/projects/4)’ project. Each issue represents a different source/mode of funding - pick one you know, choose one to research. Comment the issue with your own experience or information you can gather by researching DIY Science initiatives. 
+
+2. **List a new funding opportunity**
+The easier way: we are collecting a [list of DIY Science initiatives and funding sources](https://github.com/DIYScience/DIYScience/issues/1#issuecomment-302934191) - please also feel free to add to this list (add a comment to that issue). You may also invest a bit more time and create a new issue following the [template](https://github.com/DIYScience/DIYScience/issues/1). Please add the second part of the template as a comment to the issue, see [# 14](https://github.com/DIYScience/DIYScience/issues/14)
+
+
   
   
 ### 2. Fair pay for DIY science
